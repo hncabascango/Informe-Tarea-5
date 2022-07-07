@@ -5,24 +5,34 @@
 
 2. Evalúe cada determinante:
 
-
 ![image](https://user-images.githubusercontent.com/105606339/177235797-cc994962-4f8b-4211-b5db-940ddcebc548.png)
+
+![image](https://user-images.githubusercontent.com/105606339/177698115-d86d7f30-171b-493b-adc2-dfa40d456a0d.png)
 
 4. Evalúe cada uno de los determinantes:
 
-
 ![image](https://user-images.githubusercontent.com/105606339/177235827-79a429dc-3434-4c27-a884-c165a44c26ff.png)
 
-
-
+![image](https://user-images.githubusercontent.com/105606339/177700019-de72ac72-beec-4c5a-930b-6b264fd0da87.png)
 
 6. Determine I3 en el ejemplo 9-4.
+
+
 8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
 ![image](https://user-images.githubusercontent.com/105606339/177235969-541f7247-2c87-49f0-af51-23cf2da7453e.png)
 
+![image](https://user-images.githubusercontent.com/105606339/177703014-0508233f-d728-42e7-95b1-db47f4abf416.png)
+
+![image](https://user-images.githubusercontent.com/105606339/177703098-ef19477b-2642-4f3b-9e22-6971c5a4733e.png)
+
 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora. 
 
+![image](https://user-images.githubusercontent.com/105606339/177703579-b063cf03-0424-4d5b-8b79-70992f2e5fda.png)
+
+![image](https://user-images.githubusercontent.com/105606339/177703551-e61d68ab-8da7-4405-acbd-f978f9805abc.png)
+
+![image](https://user-images.githubusercontent.com/105606339/177704017-493c7be2-fa3a-47a2-9677-ae523b854957.png)
 
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
@@ -34,6 +44,8 @@
 ![image](https://user-images.githubusercontent.com/105606339/177236107-f84497f9-84c8-443d-9db9-4a9c74f448fd.png)
 
 16. Escriba el determinante característico para las ecuaciones:
+
+![image](https://user-images.githubusercontent.com/105606339/177708397-79a440ed-dc10-4d3a-8d7f-c0891d1fddfa.png)
 
 18. Determine las corrientes de rama en la figura 9-28. 
 
