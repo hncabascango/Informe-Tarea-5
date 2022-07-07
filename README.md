@@ -18,6 +18,7 @@
 
 6. Determine I3 en el ejemplo 9-4.
 
+![image](https://user-images.githubusercontent.com/105606339/177816207-6698e927-1206-4413-8e17-f8bf1d336067.png)
 
 8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
