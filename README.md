@@ -3,6 +3,7 @@
 
 
 
+
 2. Evalúe cada determinante:
 
 ![image](https://user-images.githubusercontent.com/105606339/177235797-cc994962-4f8b-4211-b5db-940ddcebc548.png)
