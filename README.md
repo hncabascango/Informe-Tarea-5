@@ -7,6 +7,10 @@
 
 ### Objetivos Específicos
 
+- Utilizar el método de corriente en ramas para calcular los valores desconocidos en un circuito eléctrico.
+-  Usar el método del voltaje en nodos para calcular los valores desconocidos en un circuito eléctrico.
+- Indicar los prinncipios de un campo magnético y del electromagnetismo identificando las diferencias de estas.
+
 ## MARCO TEÓRICO
 
 ### Capítulo 9
