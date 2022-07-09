@@ -1,15 +1,16 @@
-# INFORMA TAREA 5 
+# INFORME TAREA 5 
 
 ## OBJETIVOS
 
 ### Objetivo General
 
+Analizar la definición de un campo magnético y del electromagnetismo logrando con esto la comprensión de las aplicaciones así como su funcionamiento en diferentes dispositivos electromagnéticos.
 
 ### Objetivos Específicos
 
 - Utilizar el método de corriente en ramas para calcular los valores desconocidos en un circuito eléctrico.
 -  Usar el método del voltaje en nodos para calcular los valores desconocidos en un circuito eléctrico.
-- Indicar los prinncipios de un campo magnético y del electromagnetismo identificando las diferencias de estas.
+- Indicar los principios de un campo magnético y del electromagnetismo identificando las diferencias entre estas.
 
 ## MARCO TEÓRICO
 
@@ -89,13 +90,6 @@ Corriente I3
 ![image](https://user-images.githubusercontent.com/105606339/177236230-d6e2f04d-c8ef-4d66-aa17-291134b7d8cd.png)
 
 
-
-
-
-
-
-
-
 22. Determine la corriente a través de cada resistor en la figura 9-29.
 
 ![image](https://user-images.githubusercontent.com/105606339/177236236-c33232dd-f3ae-45bc-a49c-080309859f91.png)
@@ -138,15 +132,20 @@ Corriente I1
 
 ![image](https://user-images.githubusercontent.com/105606339/177236390-f7b7dee4-83f6-48be-9c78-cf69ad91d0ff.png)
 
+![image](https://user-images.githubusercontent.com/105606339/178094823-98679dc0-1914-4778-8dc7-ca1d7fddb98c.png)
 
 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo. 
 
+![image](https://user-images.githubusercontent.com/105606339/178094786-7221e7a5-514b-4e92-af44-f60a98121d48.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178094794-0728282c-44d1-4b85-bc39-9b4593a22a9f.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178094800-e20367f0-bd6e-4fb4-8f15-6e8d480db09c.png)
+
+![image](https://user-images.githubusercontent.com/105606339/178094806-54879da0-06aa-4443-8c98-c4cca1cf47bf.png)
 
 
-
-
-
-30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
+30.Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
 ![image](https://user-images.githubusercontent.com/105606339/178090379-6036d597-f44c-4345-8cda-6fb4233bc40f.png)
 
@@ -247,17 +246,11 @@ El símbolo se conecta para el botón del relé
 
 Se induce voltaje cero.
 
-20. Un campo magnético cambia a razón de 3500 x 10^3 Wb/s. ¿Cuánto voltaje se induce en una bobina
-de 500 vueltas colocada en el campo magnético?
+20. Un campo magnético cambia a razón de 3500 x 10^3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
 
+El voltaje inducido se incrementa
 
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/105606339/178094635-0c2735c0-7184-41c2-8172-882baecfbec7.png)
 
 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
@@ -269,125 +262,19 @@ Se ejerce una fuerza en el conductor cuando existe corriente.
 
 Llega 120 cada segundo .
 
-
 ## CONCLUSIONES
+
+- Con los conceptos previamente estudiados y los ejemplos presentados se ha logrado calcular todos los valores desconocidos solicitados en cada uno de los problemas propuestos.
+
+- En el método de voltaje en nodos se emplea conceptos ya antes vistos como la ley de corrientes de Kirchhoff pero es muy eficiente y útil al momento de calcular valores desconocidos de un circuito, ya que permite encontar estas incógnitas simultáneamente,
+
+- Se concluyó que la diferencia entre un campo magnético y del electromagnético es las líneas de campo eléctrico pueden ser en distintas direcciones, pero las líneas de campo magnético son siempre cerradas.
 
 ## BIBLIOGRAFÍA
 
+Buitrón, PM (18 de agosto de 2015). UIDE. Obtenido de https://repositorio.uide.edu.ec/bitstream/37000/118/1/T-UIDE-0647.pdf
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
 
 
 
