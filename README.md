@@ -1,8 +1,25 @@
-# Informe-Tarea-5
+# INFORMA TAREA 5 
+
+## OBJETIVOS
+
+### Objetivo General
 
 
+### Objetivos Específicos
 
+## MARCO TEÓRICO
 
+### Capítulo 9
+
+![Diagrama en blanco - Página 1 (3)](https://user-images.githubusercontent.com/105606339/178091173-e571e25a-4ba0-4a73-8618-61df4b125661.png)
+
+### Capítulo 10
+
+![Diagrama en blanco (22)](https://user-images.githubusercontent.com/105606339/178091155-200ed058-9b93-4b9c-908a-dfac6fa6a5aa.png)
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+### Capítulo 9 
 
 2. Evalúe cada determinante:
 
@@ -157,10 +174,9 @@ Cálculo de los voltajes en los nodos
 
 ![image](https://user-images.githubusercontent.com/105606339/178090516-5769d065-de89-4cd8-86ce-934634d80726.png)
 
-
-
-
 ![image](https://user-images.githubusercontent.com/105606339/177236448-fdbcbf66-842b-4a8a-8f09-3e6a5191160c.png)
+
+### Capítulo 10
 
 2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 µWb.
 ¿Cuál es la densidad de flujo?
@@ -248,6 +264,11 @@ Se ejerce una fuerza en el conductor cuando existe corriente.
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltajede cd de salida a su pico (alcanza un máximo)?
 
 Llega 120 cada segundo .
+
+
+## CONCLUSIONES
+
+## BIBLIOGRAFÍA
 
 
 
